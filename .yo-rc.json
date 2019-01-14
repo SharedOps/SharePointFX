@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem",
+    "version": "1.7.1",
+    "libraryName": "saaramsha-one",
+    "libraryId": "0d186b02-6df3-4d52-bbb5-a6e51f90d3d8",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

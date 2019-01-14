@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "saaramsha-one-client-side-solution",
+    "id": "0d186b02-6df3-4d52-bbb5-a6e51f90d3d8",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/saaramsha-one.sppkg"
+  }
+}

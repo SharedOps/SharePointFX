@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/fxOne/FxOneWebPart.js",
+      "manifest": "./src/webparts/fxOne/FxOneWebPart.manifest.json",
+      "outputPath": "./dist/fx-one-web-part.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "FxOneWebPartStrings": "webparts/fxOne/loc/{locale}.js"
+  }
+}
