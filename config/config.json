@@ -4,10 +4,22 @@
       "entry": "./lib/webparts/fxOne/FxOneWebPart.js",
       "manifest": "./src/webparts/fxOne/FxOneWebPart.manifest.json",
       "outputPath": "./dist/fx-one-web-part.js"
+    },
+    {
+      "entry": "./lib/webparts/fxTwo/FxTwoWebPart.js",
+      "manifest": "./src/webparts/fxTwo/FxTwoWebPart.manifest.json",
+      "outputPath": "./dist/fx-two-web-part.js"
+    },
+    {
+      "entry": "./lib/webparts/fxThree/FxThreeWebPart.js",
+      "manifest": "./src/webparts/fxThree/FxThreeWebPart.manifest.json",
+      "outputPath": "./dist/fx-three-web-part.js"
     }
   ],
   "externals": {},
   "localizedResources": {
-    "FxOneWebPartStrings": "webparts/fxOne/loc/{locale}.js"
+    "FxOneWebPartStrings": "webparts/fxOne/loc/{locale}.js",
+    "FxTwoWebPartStrings": "webparts/fxTwo/loc/{locale}.js",
+    "FxThreeWebPartStrings": "webparts/fxThree/loc/{locale}.js"
   }
 }
